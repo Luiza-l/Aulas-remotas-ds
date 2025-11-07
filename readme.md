@@ -55,7 +55,7 @@ O programa deve:
 ---
 ## Autor
 **Maria Luiza Nunes dos Santos Silva**  
-📘 Disciplina: *Desenvolvimento de Sistemas*  
-🏫 Escola: *Etec Parque da Juventude*  
-📅 Ano: *2025*
+Disciplina: *Desenvolvimento de Sistemas*  
+Escola: *Etec Parque da Juventude*  
+Ano: *2025*
 

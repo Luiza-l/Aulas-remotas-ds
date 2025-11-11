@@ -11,7 +11,7 @@ As atividades fazem parte da disciplina **Desenvolvimento de Sistemas**, foram r
 
 ### **Atividade 1 — Verificador de Maioridade (`atividade1.py`)**
 
-#### 🎯 Objetivo
+#### Objetivo
 Praticar o uso das funções **`input()`** (para receber dados do usuário), **`int()`** (para converter texto em número) e a estrutura condicional **`if/else`** (para tomar decisões com base na idade informada).
 
 #### Desafio
@@ -32,7 +32,7 @@ O programa deve:
 
 ### **Atividade 2 — Tabuada (`atividade2.py`)**
 
-#### 🎯 Objetivo
+#### Objetivo
 Praticar o uso de **loops `for`** com a função **`range()`** e reforçar o uso de **entrada e conversão de dados**.
 
 #### Desafio
@@ -48,14 +48,9 @@ O programa deve:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
-- Linguagem: **Python**
-- Editor: **Visual Studio Code**
-
----
 ### **Atividade 3 — Função Calculadora (`funcao_calculadora.py`)**
 
-#### 🎯 Objetivo  
+#### Objetivo  
 Criar um arquivo chamado **`funcao_calculadora.py`**.  
 Dentro dele, definir uma função Python que receba **três parâmetros** (por exemplo: `numero1`, `numero2` e `operacao`) e **retorne o resultado de uma operação matemática básica**.  
 
@@ -80,7 +75,7 @@ O programa deve:
 
 ### **Atividade 4 — Orientação a Objetos com Herança (`heranca_veiculos.py`)**
 
-#### 🎯 Objetivo
+#### Objetivo
 Criar um programa em **Python** que utilize **herança entre classes**, definindo uma classe base (pai) e uma classe derivada (filha).
 
 #### Desafio
@@ -97,6 +92,12 @@ O programa deve:
 - Criação de classes e objetos
 - Herança (`class Carro(Veiculo)`)
 - Uso da função **`super()`** para reutilizar o construtor da classe pai
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+- Linguagem: **Python 3.14.0**
+- Editor: **Visual Studio Code**
 
 ---
 

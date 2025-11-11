@@ -1,9 +1,9 @@
 # Atividade Remota de Desenvolvimento de Sistemas 
 
 ## Sobre o Repositório
-Este repositório contém duas atividades práticas desenvolvidas em **Python**, com o objetivo de exercitar os conceitos básicos da linguagem, como entrada de dados, conversão de tipos, condicionais e loops.
+Este repositório contém quatro atividades práticas desenvolvidas em **Python**, com o objetivo de exercitar os conceitos básicos da linguagem, como entrada de dados, conversão de tipos, condicionais e loops.
 
-As atividades fazem parte da disciplina **Desenvolvimento de Sistemas**, foram realizadas em uma aula remota e têm como foco o aprendizado dos comandos `input()`, `int()`, estruturas condicionais (`if`/`else`) e o uso da função `range()` em laços de repetição.
+As atividades fazem parte da disciplina **Desenvolvimento de Sistemas**, foram realizadas em aulas remotas e têm como foco o aprendizado dos principais conceitos de **Python**, incluindo **entrada e saída de dados**, **estruturas condicionais**, **laços de repetição** e **programação orientada a objetos (POO)** com **classes e herança**. 
 
 ---
 
@@ -53,6 +53,7 @@ O programa deve:
 - Editor: **Visual Studio Code**
 
 ---
+### **Atividade 3 — Função Calculadora (`funcao_calculadora.py`)**
 
 #### 🎯 Objetivo  
 Criar um arquivo chamado **`funcao_calculadora.py`**.  

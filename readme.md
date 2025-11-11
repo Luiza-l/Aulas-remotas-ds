@@ -101,7 +101,7 @@ O programa deve:
 
 ### Exemplo de Saída
 ```
-O resultado da operação subtração dos números 5 e 5 é: 0
+O resultado da operação de subtração entre os números 5 e 5 é: 0
 ```
 
 ---

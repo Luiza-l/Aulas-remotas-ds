@@ -28,6 +28,18 @@ O programa deve:
 - Conversão de tipos (`int()`)
 - Estruturas condicionais (`if`, `else`)
 
+### Exemplo de Saída
+```
+Digite seu nome: Maria
+Digite sua idade: 17
+Olá, Maria, você é menor de idade.
+```
+```
+Digite seu nome: Carlos
+Digite sua idade: 20
+Olá, Carlos, você é maior de idade.
+```
+
 ---
 
 ### **Atividade 2 — Tabuada (`atividade2.py`)**
@@ -46,6 +58,22 @@ O programa deve:
 - Função `range()`
 - Conversão de tipos (`int()`)
 
+### Exemplo de Saída
+```
+Digite um número: 5
+
+Tabuada do 5:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+```
 ---
 
 ### **Atividade 3 — Função Calculadora (`funcao_calculadora.py`)**
@@ -71,6 +99,11 @@ O programa deve:
 - Uso de **parâmetros** e **retorno de valores**  
 - **Estruturas condicionais** (`if`, `elif`, `else`)    
 
+### Exemplo de Saída
+```
+O resultado da operação subtração dos números 5 e 5 é: 0
+```
+
 ---
 
 ### **Atividade 4 — Orientação a Objetos com Herança (`heranca_veiculos.py`)**
@@ -92,6 +125,18 @@ O programa deve:
 - Criação de classes e objetos
 - Herança (`class Carro(Veiculo)`)
 - Uso da função **`super()`** para reutilizar o construtor da classe pai
+
+### Exemplo de Saída
+```
+--- Informações do Veículo ---
+Marca: Toyota
+Modelo: Corolla
+
+--- Informações do Carro ---
+Marca: Honda
+Modelo: Civic
+Portas: 4
+```
 
 ---
 

@@ -1,6 +1,6 @@
 # Atividade Remota de Desenvolvimento de Sistemas 
 
-## Sobre o Projeto
+## Sobre o Repositório
 Este repositório contém duas atividades práticas desenvolvidas em **Python**, com o objetivo de exercitar os conceitos básicos da linguagem, como entrada de dados, conversão de tipos, condicionais e loops.
 
 As atividades fazem parte da disciplina **Desenvolvimento de Sistemas**, foram realizadas em uma aula remota e têm como foco o aprendizado dos comandos `input()`, `int()`, estruturas condicionais (`if`/`else`) e o uso da função `range()` em laços de repetição.

@@ -53,9 +53,55 @@ O programa deve:
 - Editor: **Visual Studio Code**
 
 ---
+
+#### 🎯 Objetivo  
+Criar um arquivo chamado **`funcao_calculadora.py`**.  
+Dentro dele, definir uma função Python que receba **três parâmetros** (por exemplo: `numero1`, `numero2` e `operacao`) e **retorne o resultado de uma operação matemática básica**.  
+
+#### Desafio  
+O programa deve:  
+1. Definir uma função chamada **`calculadora()`** que receba os três parâmetros.  
+2. Verificar qual operação foi informada e realizar o cálculo correspondente.  
+3. Exibir o resultado da operação para o usuário.  
+
+#### Operações aceitas  
+- `soma` → realiza a adição  
+- `subtracao` → realiza a subtração  
+- `multiplicacao` → realiza a multiplicação  
+- `divisao` → realiza a divisão (com verificação de divisão por zero)  
+
+#### Conceitos aplicados  
+- Definição e chamada de **funções**  
+- Uso de **parâmetros** e **retorno de valores**  
+- **Estruturas condicionais** (`if`, `elif`, `else`)    
+
+---
+
+### **Atividade 4 — Orientação a Objetos com Herança (`heranca_veiculos.py`)**
+
+#### 🎯 Objetivo
+Criar um programa em **Python** que utilize **herança entre classes**, definindo uma classe base (pai) e uma classe derivada (filha).
+
+#### Desafio
+O programa deve:
+1. Criar uma **classe base** chamada `Veiculo`, com os atributos:
+   - `marca`
+   - `modelo`
+2. Criar uma **classe filha** chamada `Carro`, que **herde** de `Veiculo` e adicione um novo atributo:
+   - `portas`
+3. Criar **objetos** para ambas as classes e exibir seus atributos no terminal.
+
+#### Conceitos aplicados
+- Programação Orientada a Objetos (POO)
+- Criação de classes e objetos
+- Herança (`class Carro(Veiculo)`)
+- Uso da função **`super()`** para reutilizar o construtor da classe pai
+
+---
+
 ## Autor
 **Maria Luiza Nunes dos Santos Silva**  
-📘 Disciplina: *Desenvolvimento de Sistemas*  
-🏫 Escola: *Etec Parque da Juventude*  
-📅 Ano: *2025*
+Disciplina: *Desenvolvimento de Sistemas*  
+Escola: *Etec Parque da Juventude*  
+Ano: *2025*
 
